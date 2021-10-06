@@ -1,6 +1,6 @@
 ### Oi! Sou a Ana Moura 👋 
 ##
-<div>
+<div align="center">
 <a href="https://github.com/talveznao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talveznao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
